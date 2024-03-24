@@ -43,4 +43,3 @@
         1. Carpeta dedicada para almacenar las rutas o urls que usaremos.
     * `VIEWS`
         1. Carpeta dedicada para guardar los archivos de handlebars.
-
